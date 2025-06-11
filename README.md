@@ -1,25 +1,17 @@
 # 👋 Olá, eu sou o Leonardo!
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** – 2º semestre  
-💼 Em transição de carreira, investindo firme nos estudos para me tornar um programador profissional.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** – 2º semestre
+Em transição de carreira, investindo nos estudos para me tornar um programador.
 
+Conhecimentos que domino:
 
-## 💻 Tecnologias que conheço
-- Java
-- Python
-- HTML & CSS
-- SQL
+- Programação em Python
+  - Lógica de Programação
+  - Programação Orientada a Objetos
+  - Funções e Métodos
+  - Estruturas Condicionais
 
-
-## 🧠 Conhecimentos que domino
-
-### Programação em Python
-- Lógica de Programação
-- Programação Orientada a Objetos
-- Funções e Métodos
-- Estruturas Condicionais
-
-### Banco de Dados
+Banco de Dados
 - Modelagem de Dados:
   - Diagramas ER (Entidade-Relacionamento)
   - Modelo Conceitual
