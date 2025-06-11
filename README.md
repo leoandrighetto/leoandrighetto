@@ -4,13 +4,11 @@
 💼 Em transição de carreira, investindo firme nos estudos para me tornar um programador profissional.
 
 
-
 ## 💻 Tecnologias que conheço
 - Java
 - Python
 - HTML & CSS
 - SQL
-
 
 
 ## 🧠 Conhecimentos que domino
@@ -27,7 +25,6 @@
   - Modelo Conceitual
   - Modelo Lógico
   - Modelo Físico
-
 
 
 ## 🚀 Sobre mim
