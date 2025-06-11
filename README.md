@@ -15,13 +15,13 @@
 
 ## 🧠 Conhecimentos que domino
 
-### 👨‍💻 Programação em Python
+### Programação em Python
 - Lógica de Programação
 - Programação Orientada a Objetos
 - Funções e Métodos
 - Estruturas Condicionais
 
-### 🗃️ Banco de Dados
+### Banco de Dados
 - Modelagem de Dados:
   - Diagramas ER (Entidade-Relacionamento)
   - Modelo Conceitual
