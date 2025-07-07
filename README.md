@@ -19,7 +19,7 @@ Banco de Dados
   - Modelo Físico
 
 
-## 🚀 Sobre mim
+## Sobre mim
 
 Estou construindo minha base técnica durante a graduação, com projetos que refletem meu aprendizado e evolução.  
 Nos meus repositórios, você vai encontrar aplicações que desenvolvi como parte do meu crescimento acadêmico e pessoal.  
