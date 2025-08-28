@@ -1,4 +1,4 @@
-#🤙🏻🤙🏻  Salve! Leonardo aqui!
+#🤙🏻Leonardo aqui!
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** – 2º semestre
 Em transição de carreira, investindo nos estudos para me tornar um programador.
