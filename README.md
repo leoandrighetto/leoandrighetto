@@ -1,7 +1,8 @@
 # Oláá! Aqui quem fala é Leo Andrighetto!
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** – 3º semestre
-Em transição de carreira, investindo nos estudos para me tornar um programador.
+Eu venho investindo nos estudos, afim de me tornar um programador.
+Atualmente estou buscando estágio!
 
 Conhecimentos que domino:
 
