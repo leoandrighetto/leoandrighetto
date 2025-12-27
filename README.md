@@ -1,27 +1,24 @@
-# Oláá! Aqui quem fala é Leo Andrighetto!
+# Olá! Aqui é o Léo!
+Sou estudante de **Análise e Desenvolvimento de Sistemas** – 4º semestre. Eu venho investindo nos estudos, afim de me tornar um programador.
+Atualmente estou estagiando como desenvolvedor web na Superintendência da PRF em Porto Alegre!
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** – 3º semestre. Eu venho investindo nos estudos, afim de me tornar um programador.
-Atualmente estou buscando estágio!
+💻 Tecnologias que utilizo
 
-Conhecimentos que domino:
+Linguagens de programação:
 
-- Programação em Python e Javascript:
-  - Lógica de Programação
-  - Programação Orientada a Objetos
-  - Heranças, Polimorfismo
-  - Funções e Métodos de classe
-  - Estruturas Condicionais e laços de repetição
+- Python
+- JavaScript
 
-Banco de Dados (MyQSL)
-- Modelagem de Dados:
-  - Diagramas ER (Entidade-Relacionamento)
-  - Modelos Conceituais
-  - Modelos Lógicos
-  - Modelos Físicos
-  - Intergração de Python ap MySQL
+Frameworks e bibliotecas:
 
-- Programação básica em HTML, CSS e Java.
+- Python: Flask
+- JavaScript: Vue.js e React
+
+Conhecimentos gerais:
+
+- Integração entre Back-end e Front-end (rotas, middlewares, controllers, requisições HTTP e APIs REST)
+- Automação e Web Scraping com Python (Selenium, Requests, BeautifulSoup)
+- Banco de dados (SQL, PostgreSQL, SQLAlchemy)
 
 Estou construindo minha base técnica durante a graduação, com projetos que refletem meu aprendizado e evolução.  
-Nos meus repositórios, você vai encontrar aplicações que desenvolvi como parte do meu crescimento acadêmico e pessoal.  
 **Fique à vontade para explorar — espero que goste!**
